@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AsanExchange/static/css/main.7c285236.chunk.css",
+    "main.js": "/AsanExchange/static/js/main.0f67aac5.chunk.js",
+    "main.js.map": "/AsanExchange/static/js/main.0f67aac5.chunk.js.map",
+    "runtime-main.js": "/AsanExchange/static/js/runtime-main.49a1bcb6.js",
+    "runtime-main.js.map": "/AsanExchange/static/js/runtime-main.49a1bcb6.js.map",
+    "static/css/2.f5a13fe1.chunk.css": "/AsanExchange/static/css/2.f5a13fe1.chunk.css",
+    "static/js/2.83d376ec.chunk.js": "/AsanExchange/static/js/2.83d376ec.chunk.js",
+    "static/js/2.83d376ec.chunk.js.map": "/AsanExchange/static/js/2.83d376ec.chunk.js.map",
+    "static/js/3.a9807ac0.chunk.js": "/AsanExchange/static/js/3.a9807ac0.chunk.js",
+    "static/js/3.a9807ac0.chunk.js.map": "/AsanExchange/static/js/3.a9807ac0.chunk.js.map",
+    "index.html": "/AsanExchange/index.html",
+    "static/css/2.f5a13fe1.chunk.css.map": "/AsanExchange/static/css/2.f5a13fe1.chunk.css.map",
+    "static/css/main.7c285236.chunk.css.map": "/AsanExchange/static/css/main.7c285236.chunk.css.map",
+    "static/js/2.83d376ec.chunk.js.LICENSE.txt": "/AsanExchange/static/js/2.83d376ec.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/AsanExchange/static/media/wallet.d63762d1.svg",
+    "static/media/index.css": "/AsanExchange/static/media/YekanBakhFA04Regular.6aac55ff.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a1bcb6.js",
+    "static/css/2.f5a13fe1.chunk.css",
+    "static/js/2.83d376ec.chunk.js",
+    "static/css/main.7c285236.chunk.css",
+    "static/js/main.0f67aac5.chunk.js"
+  ]
+}
