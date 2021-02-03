@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Navid-Deploy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Navid-Deploy/static/js/main.40c4aa55.chunk.js",
+    "main.js.map": "/Navid-Deploy/static/js/main.40c4aa55.chunk.js.map",
+    "runtime-main.js": "/Navid-Deploy/static/js/runtime-main.73adfa1d.js",
+    "runtime-main.js.map": "/Navid-Deploy/static/js/runtime-main.73adfa1d.js.map",
+    "static/js/2.a78a8217.chunk.js": "/Navid-Deploy/static/js/2.a78a8217.chunk.js",
+    "static/js/2.a78a8217.chunk.js.map": "/Navid-Deploy/static/js/2.a78a8217.chunk.js.map",
+    "static/js/3.b9c1d73f.chunk.js": "/Navid-Deploy/static/js/3.b9c1d73f.chunk.js",
+    "static/js/3.b9c1d73f.chunk.js.map": "/Navid-Deploy/static/js/3.b9c1d73f.chunk.js.map",
+    "index.html": "/Navid-Deploy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Navid-Deploy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a78a8217.chunk.js.LICENSE.txt": "/Navid-Deploy/static/js/2.a78a8217.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Navid-Deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73adfa1d.js",
+    "static/js/2.a78a8217.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.40c4aa55.chunk.js"
+  ]
+}
